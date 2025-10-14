@@ -106,4 +106,4 @@ extensions:
 
 . Produces
 +
-image::dev-mode.png[]
+image::./.images/dev-mode.png[]
