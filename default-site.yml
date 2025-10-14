@@ -1,7 +1,7 @@
 ---
 site:
-  title: Showroom Template Demo
-  url: https://redhat-scholars.github.io/course-template
+  title: "Introducing llm-d Your Production-Ready Path to Scalable LLM Inference"
+  url: https://github.com/rhpds/showroom_template_default.git
   start_page: modules::index.adoc
 
 content:
